@@ -25,7 +25,7 @@ Here is the comprehensive architecture and `README.md` file optimized for GitHub
 
 **A.I.S.N.** (Autonomous Industrial Self-Healing Network) represents the next generation of industrial operations: moving from **Human Oversight (Mode A)** to **Autonomous Swarm Intelligence (Mode B)**.
 
-This platform demonstrates a "Self-Healing Enterprise" where critical assets—like the **Megasus Excavator**—are not just monitored but actively managed by a swarm of AI agents. When a critical fault (e.g., Thermal Runaway) occurs, the system autonomously:
+This platform demonstrates a "Self-Healing Enterprise" where critical assets—like the **heavy Duty Mining Excavator**—are not just monitored but actively managed by a swarm of AI agents. When a critical fault (e.g., Thermal Runaway) occurs, the system autonomously:
 
 1. **Analyzes Real-Time Telemetry** via WebSocket streams.
 2. **Verifies Physical Safety** using Computer Vision simulations.
