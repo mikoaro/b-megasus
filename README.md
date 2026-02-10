@@ -15,8 +15,6 @@
 ![Megasus - Autonomous Industrial Supply Network - 4](./screenshots/3.png)
 
 
-Here is the comprehensive architecture and `README.md` file optimized for GitHub. It includes colorful Mermaid and plaintext diagrams, full installation/deployment instructions, and avoids the restricted keyword.
-
 ---
 
 # A.I.S.N. - Autonomous Industrial Self-Healing Network
