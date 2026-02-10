@@ -4,7 +4,7 @@
 
 [Megasus - Autonomous Industrial Supply Network Frontend, Field Service Management and Digital Twin](https://aisn-frontend-prod-80514976508.us-central1.run.app)
 
-[Megasus - Autonomous Industrial Supply Network Frontend Source Code](https://github.com/mikoaro/f-megasus-prod)
+[Megasus - Autonomous Industrial Supply Network Frontend Source Code](https://github.com/mikoaro/f-megasus)
 
 ![Megasus - Autonomous Industrial Supply Network - 1](./screenshots/0.png)
 
