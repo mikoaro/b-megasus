@@ -37,7 +37,7 @@ This platform demonstrates a "Self-Healing Enterprise" where critical assets—l
 
 ## 🏗️ Architecture
 
-### 1. High-Level Architecture (Mermaid)
+### 1. High-Level Architecture 
 
 ```mermaid
 graph TD
